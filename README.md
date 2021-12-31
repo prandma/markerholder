@@ -10,7 +10,7 @@ No design on Thingiverse did quite fit to my expectations:
 
 So I made that one.
 
-![glass board marker holder](pic/Stifthalter_big.jpg)
+![glass board marker holder](pic/Stifthalter.jpg)
 
 On the back, I fixed it with some double-sided foam adhesive tape and we've
 been using the holder ever since, without any problems. 
